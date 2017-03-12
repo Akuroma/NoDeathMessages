@@ -1,0 +1,8 @@
+name: NoDeathMessages
+main: NoDM\Main
+version: 1.0
+api: [1.0.0, 2.0.0, 3.0.0, 3.0.0ALPHA4, 3.0.1]
+
+commands:
+  nodm:
+    description: main command
