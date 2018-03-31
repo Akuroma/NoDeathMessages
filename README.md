@@ -3,6 +3,6 @@ Get rid of DeathMessages.
 
 This simple plugin will remove all Death-Messages.
 
-Please be aware that you're not allowed to remove the /nodm command from this plugin.
+Feel free to use this plugin on your server. You can also clone the onDeath-Function to your own plugin.
 
 Have fun.
