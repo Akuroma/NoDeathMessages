@@ -1,8 +1,5 @@
 name: NoDeathMessages
-main: NoDM\Main
-version: 1.0
-api: [1.0.0, 2.0.0, 3.0.0, 3.0.0ALPHA4, 3.0.1]
-
-commands:
-  nodm:
-    description: main command
+author: LookItsAku
+main: LIA\Main
+version: 1.1
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
